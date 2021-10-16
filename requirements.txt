@@ -1,0 +1,8 @@
+Django
+Python == 3.9.7 64-bit
+joblib
+pandas
+sklearn
+sklearn_pandas
+numpy
+pymongo
