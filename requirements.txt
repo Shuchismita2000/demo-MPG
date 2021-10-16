@@ -1,5 +1,4 @@
-Django
-Python 
+Django 
 joblib
 pandas
 sklearn
